@@ -40,7 +40,7 @@ Training
 
 ---------------------------------------------------------------------------------------------------------------
 
-# SVM / Kernel SVM : 
+# SVM / Kernel SVM: 
 
 Linear SVM ^
 <img src=https://github.com/mishaelran/Machine-Learning-Course/blob/master/SVM/linear%20clissifier%20SVM.png>
@@ -50,4 +50,14 @@ Kernel SVM ^
 
 ---------------------------------------------------------------------------------------------------------------
 
-# Naive Bayes
+# Naive Bayes:
+
+<img src=https://github.com/mishaelran/Machine-Learning-Course/blob/master/Naive_Bayes/Test_Set_NB.png>
+
+<img src=https://github.com/mishaelran/Machine-Learning-Course/blob/master/Naive_Bayes/Training_Set_NB.png>
+
+---------------------------------------------------------------------------------------------------------------
+
+# Decision Trees Classifier:
+
+
