@@ -68,3 +68,26 @@ Kernel SVM ^
 
 # Random Forest Classifier:
 
+<img src=https://github.com/mishaelran/Machine-Learning-Course/blob/master/Random_Forest_Classifier/TEST_SET_CLASSIFIER.png>
+
+<img src=https://github.com/mishaelran/Machine-Learning-Course/blob/master/Random_Forest_Classifier/Training_Set_Classifier.png>
+
+---------------------------------------------------------------------------------------------------------------
+
+## PART 4. CLUSTERING:
+
+---------------------------------------------------------------------------------------------------------------
+
+# K-Means Clustering
+
+
+---------------------------------------------------------------------------------------------------------------
+
+# Hierarchical Clustering
+
+
+---------------------------------------------------------------------------------------------------------------
+
+
+
+
