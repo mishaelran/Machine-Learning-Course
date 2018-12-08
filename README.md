@@ -36,7 +36,7 @@ Training
 
 <img src=https://github.com/mishaelran/Machine-Learning-Course/blob/master/Logistic_Regression/test%20set.png>
 
-<img src=https://github.com/mishaelran/Machine-Learning-Course/blob/master/Logistic_Regression/test%20set.png>
+<img src=https://github.com/mishaelran/Machine-Learning-Course/blob/master/Logistic_Regression/training%20test.png>
 
 ---------------------------------------------------------------------------------------------------------------
 
