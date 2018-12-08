@@ -32,6 +32,13 @@ Training
 
 ---------------------------------------------------------------------------------------------------------------
 
+# Regression Pros and Cons
+
+<img src=https://github.com/mishaelran/Machine-Learning-Course/blob/master/Pros%20-%20Cons%20-%20for%20each%20model/Regression-Pros-Cons.pdf>
+
+
+---------------------------------------------------------------------------------------------------------------
+
 # Logistic Regression model: 
 
 <img src=https://github.com/mishaelran/Machine-Learning-Course/blob/master/Logistic_Regression/test%20set.png>
