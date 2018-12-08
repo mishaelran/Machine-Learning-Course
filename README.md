@@ -60,4 +60,11 @@ Kernel SVM ^
 
 # Decision Trees Classifier:
 
+<img src=https://github.com/mishaelran/Machine-Learning-Course/blob/master/Decision_Tree_Classifier/TEST_SET_CLASSIFIER.png>
+
+<img src=https://github.com/mishaelran/Machine-Learning-Course/blob/master/Decision_Tree_Classifier/Training_Set_Classifier.png>
+
+---------------------------------------------------------------------------------------------------------------
+
+# Random Forest Classifier:
 
